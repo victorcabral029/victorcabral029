@@ -1,7 +1,7 @@
 # Welcome 👋
 
 <p align="center">
- <img  width="1000" height="333" src="https://github.com/victorcabral029/victorcabral029/blob/main/assets/capa.jpg">
+ <img height="333" src="https://github.com/victorcabral029/victorcabral029/blob/main/assets/capa.jpg">
 </p>
 
 Nice to meet you! My name is Victor Cabral, a Computer Science student living in Brazil. Nowadays, I focus my time on learning more each day about Data Science and Artificial Intelligence. Always keep my mind in doing my stuff with creativity and quality, feel free to find my job on Linkedin, Kaggle and Medium. 
