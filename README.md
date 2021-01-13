@@ -6,7 +6,7 @@
 </p>
 -->
 
-### Nice to meet you! My name is Victor Cabral, a Computer Science student living in Brazil. Nowadays, I focus my time on learning more each day about Data Science and Artificial Intelligence. Always keep my mind in doing my stuff with creativity and quality, feel free to find my job on Linkedin, Kaggle and Medium. 
+#### Nice to meet you! My name is Victor Cabral, a Computer Science student living in Brazil. Nowadays, I focus my time on learning more each day about Data Science and Artificial Intelligence. Always keep my mind in doing my stuff with creativity and quality, feel free to find my job on Linkedin, Kaggle and Medium. 
 
 ## About me 🌎
 
