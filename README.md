@@ -1,12 +1,6 @@
 # Welcome 👋
 
-<!--
-<p align="center">
- <img height="333" src="https://github.com/victorcabral029/victorcabral029/blob/main/assets/capa.jpg">
-</p>
--->
-
-### Nice to meet you! My name is Victor Cabral, a Computer Science student living in Brazil. Nowadays, I focus my time on learning more each day about Data Science and Artificial Intelligence. Always keep my mind in doing my stuff with creativity and quality, feel free to find me on Linkedin, Kaggle and Medium. 
+### Nice to meet you! My name is Victor Cabral, a Computer Science student living in Brazil. Nowadays, I focus my time on learning more each day about Data Science and Artificial Intelligence. Always keep my mind in doing my things with creativity and quality, feel free to find me on Linkedin, Kaggle and Medium. 
 
 ## About me 🌎
 
@@ -31,15 +25,3 @@
 
 <!--
 **victorcabral029/victorcabral029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
