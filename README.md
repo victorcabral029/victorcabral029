@@ -4,17 +4,13 @@
 
 ## About me 🌎
 
-### 🏥 - Currently in a Data Science Summer Job at WeCancer
+### 🏥 - Currently working with Data Science and BI at WeCancer
 
 ### 🏫- Researcher at Federal University of Lavras
-
-### 🧬 - Data Analyst at a Cattle Genetics Startup
 
 ### 🌳 - Learning Artificial Neural Networks, NLP and DataViz
 
 ### 🤝🏻 - Open For Colaborations
-
-### ⚽ - I love football
 
 ## Find me 🔎
 
